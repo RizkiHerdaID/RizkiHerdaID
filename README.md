@@ -35,7 +35,7 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiHerdaID&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiHerdaID&layout=compact&count_private=true)
 
 ![RizkiHerdaID's github stats](https://github-readme-stats.vercel.app/api?username=RizkiHerdaID&count_private=true)
 
