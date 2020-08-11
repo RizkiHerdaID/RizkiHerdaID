@@ -1,7 +1,7 @@
 ### Hi there, I'm Rizki 👋
 
 ## I'm a Full Stack Developer!
-- 🔭 I’m currently working at [Twiscode Pte. Ltd.][twiscode]
+- 🔭 I’m currently working at [Twiscode Pte. Ltd.][twiscode] as a Backend Developer for Go, NodeJS, and PHP
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play games
