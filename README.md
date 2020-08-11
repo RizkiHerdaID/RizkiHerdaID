@@ -33,7 +33,7 @@
 <br />
 <br />
 
-[![RizkiHerdaID's github stats](https://github-readme-stats.vercel.app/api?username=RizkiHerdaID&count_private=true)]
+![RizkiHerdaID's github stats](https://github-readme-stats.vercel.app/api?username=RizkiHerdaID&count_private=true)
 
 [github]: https://github.com/RizkiHerdaID
 [twiscode]: https://twiscode.com
