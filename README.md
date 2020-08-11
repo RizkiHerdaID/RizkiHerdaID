@@ -1,6 +1,6 @@
 ### Hi there, I'm Rizki 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Full Stack Developer!
 - 🔭 I’m currently working at a [Twiscode Pte. Ltd.][twiscode]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
