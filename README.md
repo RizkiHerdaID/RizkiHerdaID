@@ -1,14 +1,14 @@
-### Hi there, I'm [Rizki Herda][website] 👋
+### Hi there, I'm [Rizki Herda][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/website?label=RizkiHerdaID&style=for-the-badge&url=https%3A%2F%2Frizkiherdaid.github.io)](https://rizkiherdaid.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RizkiHerdaID?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRizkiHerdaID&screen_name=RizkiHerdaID)
 
 
 ## I'm a Full Stack Developer!
 
-- 🔭 I’m currently working at [Twiscode Pte. Ltd.][twiscode] as a Backend Developer for Go, NodeJS, and PHP
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sing and play games
+- 🔭 I’m currently working at [Twiscode Pte. Ltd.][twiscode] as a Backend Developer for Go, NodeJS, and PHP 😎
+- 🌱 I’m currently learning everything 😅
+- 🥅 2020 Goals: Contribute more to Open Source projects 🤩
+- ⚡ Fun fact: I ❤ 🎙 🎮 😸
 
 ### 🎧 Spotify Playing
 [![Spotify](https://spotify-now-playing-one.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ps3spo8ojmpnslkqhyko8b79g)
