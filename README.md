@@ -43,6 +43,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to Jekyll!](/jekyll/update/2020/08/14/welcome-to-jekyll.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiHerdaID&layout=compact&count_private=true)
