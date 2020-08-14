@@ -10,6 +10,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play games
 
+### Spotify Playing 🎧
+[![Spotify](https://spotify-now-playing-one.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ps3spo8ojmpnslkqhyko8b79g)
+
 ### Connect with me:
 
 [<img align="left" alt="RizkiHerdaID" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
