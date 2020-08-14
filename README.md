@@ -1,6 +1,7 @@
 ### Hi there, I'm Rizki 👋
 
 ## I'm a Full Stack Developer!
+
 - 🔭 I’m currently working at [Twiscode Pte. Ltd.][twiscode] as a Backend Developer for Go, NodeJS, and PHP
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -36,6 +37,13 @@
 
 <br />
 <br />
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiHerdaID&layout=compact&count_private=true)
 
