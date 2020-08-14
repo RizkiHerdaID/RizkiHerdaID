@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Twiscode Pte. Ltd.][twiscode] as a Backend Developer for Go, NodeJS, and PHP 😎
 - 🌱 I’m currently learning everything 😅
-- 🥅 2020 Goals: Contribute more to Open Source projects 🤩
+- 🥅 2020 Goals: Contribute to Open Source projects 🤩
 - ⚡ Fun fact: I ❤ 🎙 🎮 😸
 
 ### 🎧 Spotify Playing
