@@ -50,7 +50,18 @@
 
 ---
 
+<details>
+  <summary>⚡ Recent Github Activity</summary>
+
+  <!--START_SECTION:activity-->
+</details>
+
+<details>
+  <summary>⚡ Github Stats</summary>
+
 ![RizkiHerdaID's github stats](https://github-readme-stats.vercel.app/api?username=RizkiHerdaID&count_private=true)
+
+</details
 
 [website]: https://rizkiherdaid.github.io
 [twiscode]: https://twiscode.com
