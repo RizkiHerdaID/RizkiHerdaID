@@ -14,3 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://rizkiherdaid.github.io/feed.xml"
+          COMMIT_MESSAGE: Updated the Blog Post
