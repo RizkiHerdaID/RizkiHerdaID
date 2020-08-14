@@ -10,7 +10,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play games
 
-### Spotify Playing 🎧
+### 📊 This week I spent my time on
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🎧 Spotify Playing
 [![Spotify](https://spotify-now-playing-one.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ps3spo8ojmpnslkqhyko8b79g)
 
 ### Connect with me:
