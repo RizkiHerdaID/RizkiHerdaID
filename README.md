@@ -57,7 +57,7 @@ No Activity tracked this Week
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to Jekyll!](/jekyll/update/2020/08/14/welcome-to-jekyll.html)
+- [Welcome to Jekyll!](https://rizkiherdaid.github.io/jekyll/update/2020/08/14/welcome-to-jekyll.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://rizkiherdaid.github.io)
