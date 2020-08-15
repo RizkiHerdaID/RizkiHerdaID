@@ -67,7 +67,7 @@ No Activity tracked this Week
 <details>
   <summary>⚡ Github Stats</summary>
 
-  ![RizkiHerdaID's github stats](https://github-readme-stats.vercel.app/api?username=RizkiHerdaID&count_private=true)
+  ![RizkiHerdaID's github stats](https://github-readme-stats.rizkiherdaid.vercel.app/api?username=RizkiHerdaID&count_private=true)
 
 </details>
 
