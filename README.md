@@ -14,11 +14,9 @@
 [![Spotify](https://spotify-now-playing-rizkiherdaid.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ps3spo8ojmpnslkqhyko8b79g)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-140-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 389 Contributions in year 2020
+> 🏆 387 Contributions in year 2020
  > 
 > 📦 Used 111.8 kB in GitHub's Storage 
  > 
@@ -28,18 +26,36 @@
  > 
 > 🔑 18 Owned Private Repositories 
 
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    96 commits     ███████░░░░░░░░░░░░░░░░░░   30.67% 
+🌆 Daytime    106 commits    ████████░░░░░░░░░░░░░░░░░   33.87% 
+🌃 Evening    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14% 
+🌙 Night      73 commits     █████░░░░░░░░░░░░░░░░░░░░   23.32%
+
+```
+📅 **I'm Most Productive on Mondays** 
+
+```text
+Monday       73 commits     █████░░░░░░░░░░░░░░░░░░░░   23.32% 
+Tuesday      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
+Wednesday    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.42% 
+Thursday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
+Friday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.93% 
+Saturday     61 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.49% 
+Sunday       8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
+
+```
+
+
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Jakarta
-
 💬 Languages: 
 No Activity tracked this Week
 
-🔥 Editors: 
-No Activity tracked this Week
-
-💻 Operating Systems: 
+🐱‍💻 Projects: 
 No Activity tracked this Week
 
 ```
