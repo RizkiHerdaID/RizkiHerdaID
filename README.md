@@ -16,9 +16,81 @@
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-140-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-21372%20Lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 387 Contributions in year 2020
+ > 
+> 📦 Used 111.8 kB in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 18 Owned Private Repositories 
+
+**I'm an early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    96 commits     ███████░░░░░░░░░░░░░░░░░░   31.07% 
+🌆 Daytime    106 commits    ████████░░░░░░░░░░░░░░░░░   34.3% 
+🌃 Evening    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
+🌙 Night      73 commits     ██████░░░░░░░░░░░░░░░░░░░   23.62%
+
 ```
+📅 **I'm Most Productive on Mondays** 
+
+```text
+Monday       73 commits     ██████░░░░░░░░░░░░░░░░░░░   23.62% 
+Tuesday      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
+Wednesday    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+Thursday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
+Friday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.15% 
+Saturday     57 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.45% 
+Sunday       8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Asia/Bangkok
+
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+🐱‍💻 Projects: 
+No Activity tracked this Week
+
+💻 Operating Systems: 
+No Activity tracked this Week
+
+```
+
+**I mostly code in PHP** 
+
+```text
+PHP                      26 repos            ██████████████████░░░░░░░   72.22% 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Java                     1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/RizkiHerdaID/RizkiHerdaID/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ### Connect with me:
