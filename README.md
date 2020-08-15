@@ -118,7 +118,7 @@ Java                     1 repos             ░░░░░░░░░░░�
 
 ---
 
-![RizkiHerdaID's github stats](https://github-readme-stats.rizkiherdaid.vercel.app/api?username=RizkiHerdaID&count_private=true)
+![RizkiHerdaID's github stats](https://github-readme-stats.rizkiherdaid.vercel.app/api?username=RizkiHerdaID&count_private=true&show_icons=true)
 
 [website]: https://rizkiherdaid.github.io
 [twiscode]: https://twiscode.com
