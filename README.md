@@ -103,6 +103,14 @@ Java                     1 repos             ░░░░░░░░░░░�
 ---
 
 <details>
+  <summary>⚡ Recent Github Activity</summary>
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
+</details>
+
+<details>
   <summary>⚡ Github Stats</summary>
 
   ![RizkiHerdaID's github stats](https://github-readme-stats.rizkiherdaid.vercel.app/api?username=RizkiHerdaID&count_private=true)
