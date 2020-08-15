@@ -5,9 +5,9 @@
 
 ## I'm a Full Stack Developer!
 
-- 🔭 I’m currently working at [Twiscode Pte. Ltd.][twiscode] as a Backend Developer for Go, NodeJS, and PHP 😎
-- 🌱 I’m currently learning everything 😅
-- 🥅 2020 Goals: Contribute to Open Source projects 🤩
+- 🔭 I currently work at [Twiscode Pte. Ltd.][twiscode] as a Backend Developer for Go, NodeJS, and PHP. 😎
+- 🌱 I’m currently learning everything. 😅
+- 🥅 2020 Goals: Contribute to Open Source projects. 🤩
 - ⚡ Fun fact: I ❤ 🎙 🎮 😸
 
 ### 🎧 Spotify Playing
