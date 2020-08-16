@@ -14,19 +14,19 @@
 [![Spotify](https://spotify-now-playing-rizkiherdaid.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ps3spo8ojmpnslkqhyko8b79g)
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 387 Contributions in year 2020
+> 🏆 398 Contributions in the year 2020
  > 
-> 📦 Used 111.8 kB in GitHub's Storage 
+> 📦 111.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 24 Public repositories
  > 
-> 🔑 18 Owned Private Repositories 
+> 🔑 18 Private repositories 
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    96 commits     ███████░░░░░░░░░░░░░░░░░░   30.09% 
@@ -35,7 +35,7 @@
 🌙 Night      73 commits     █████░░░░░░░░░░░░░░░░░░░░   22.88%
 
 ```
-📅 **I'm Most Productive on Mondays** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       73 commits     █████░░░░░░░░░░░░░░░░░░░░   22.88% 
@@ -49,10 +49,10 @@ Sunday       8 commits      ░░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-💬 Languages: 
+💬 Programming Languages: 
 Other                    2 hrs 43 mins       ████████████░░░░░░░░░░░░░   50.32% 
 YAML                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.89% 
 Go                       51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
@@ -61,7 +61,7 @@ Ruby                     6 mins              ░░░░░░░░░░░�
 
 ```
 
-**I mostly code in PHP** 
+**I Mostly Code in PHP** 
 
 ```text
 PHP                      26 repos            ██████████████████░░░░░░░   72.22% 
