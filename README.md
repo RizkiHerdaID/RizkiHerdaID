@@ -5,7 +5,7 @@
 
 ## I'm a Full Stack Developer!
 
-- 🔭 I currently work at [Twiscode Pte. Ltd.][twiscode] as a Backend Developer for Go, NodeJS, and PHP. 😎
+- 🔭 I currently work at [PT Dutakom Wibawa Putra (D~NET)][dnet] as a Backend Developer for Ruby on Rails. 😎
 - 🌱 I’m currently learning everything. 😅
 - 🥅 2020 Goals: Contribute to Open Source projects. 🤩
 - ⚡ Fun fact: I ❤ 🎙 🎮 😸
@@ -98,6 +98,8 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ### Languages, Frameworks and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][website]
+[<img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />][website]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][website]
 [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][website]
 [<img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />][website]
@@ -131,7 +133,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![RizkiHerdaID's github stats](https://github-readme-stats.rizkiherdaid.vercel.app/api?username=RizkiHerdaID&count_private=true&show_icons=true)
 
 [website]: https://rizkiherdaid.github.io
-[twiscode]: https://twiscode.com
+[dnet]: https://www.dnet.net.id/
 [twitter]: https://twitter.com/RizkiHerdaID
 [youtube]: https://www.youtube.com/channel/UCUCmGb5NJcm3xWB4xDliZ_Q
 [instagram]: https://instagram.com/RizkiHerdaID
