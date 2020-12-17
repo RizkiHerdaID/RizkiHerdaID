@@ -133,7 +133,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![RizkiHerdaID's github stats](https://github-readme-stats.rizkiherdaid.vercel.app/api?username=RizkiHerdaID&count_private=true&show_icons=true)
 
 [website]: https://rizkiherdaid.github.io
-[dnet]: https://www.dnet.net.id/
+[dnet]: http://dnetprovider.id
 [twitter]: https://twitter.com/RizkiHerdaID
 [youtube]: https://www.youtube.com/channel/UCUCmGb5NJcm3xWB4xDliZ_Q
 [instagram]: https://instagram.com/RizkiHerdaID
