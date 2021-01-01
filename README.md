@@ -7,7 +7,7 @@
 
 - 🔭 I currently work at [PT Dutakom Wibawa Putra (D~NET)][dnet] as a Backend Developer for Ruby on Rails. 😎
 - 🌱 I’m currently learning everything. 😅
-- 🥅 2020 Goals: Contribute to Open Source projects. 🤩
+- 🥅 2021 Goals: Contribute to Open Source projects. 🤩
 - ⚡ Fun fact: I ❤ 🎙 🎮 😸
 
 ### 🎧 Spotify Playing
