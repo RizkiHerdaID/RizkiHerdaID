@@ -10,9 +10,6 @@
 - 🥅 2021 Goals: Contribute to Open Source projects. 🤩
 - ⚡ Fun fact: I ❤ 🎙 🎮 😸
 
-### 🎧 Spotify Playing
-[![Spotify](https://spotify-now-playing-rizkiherdaid.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ps3spo8ojmpnslkqhyko8b79g)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
