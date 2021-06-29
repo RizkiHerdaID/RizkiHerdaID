@@ -56,17 +56,16 @@ Sunday       5 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     34 mins             ████████████████████████░   95.56% 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-announcement             36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,7 +82,7 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2021
+ Last Updated on 29/06/2021
 <!--END_SECTION:waka-->
 
 ### Connect with me:
