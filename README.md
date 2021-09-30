@@ -8,7 +8,7 @@
 - 🔭 I currently work at [PT Dutakom Wibawa Putra (D~NET)][dnet] as a Backend Developer for Ruby on Rails. 😎
 - 🌱 I’m currently learning everything. 😅
 - 🥅 2021 Goals: Contribute to Open Source projects. 🤩
-- ⚡ Fun fact: I ❤ 🎙 🎮 😸
+- ⚡ Fun fact: I ❤ 🎙 🎮 🐈
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
