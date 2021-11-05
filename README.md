@@ -5,8 +5,8 @@
 
 ## I'm a Full Stack Developer!
 
-- 🔭 I currently work at [PT Dutakom Wibawa Putra (D~NET)][dnet] as a Backend Developer for Ruby on Rails. 😎
-- 🌱 I’m currently learning everything. 😅
+- 🔭 I currently work at [PT Dutakom Wibawa Putra (D~NET)][dnet] as a Fullstack Developer for Ruby on Rails. 😎
+- 🌱 I’m currently learning Ruby on Rails & React. 😅
 - 🥅 2021 Goals: Contribute to Open Source projects. 🤩
 - ⚡ Fun fact: I ❤ 🎙 🎮 🐈
 
