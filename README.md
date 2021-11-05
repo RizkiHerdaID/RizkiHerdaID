@@ -3,9 +3,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/RizkiHerdaID?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRizkiHerdaID&screen_name=RizkiHerdaID)
 
 
-## I'm a Full Stack Developer!
+## I'm a Full-stack Developer!
 
-- 🔭 I currently work at [PT Dutakom Wibawa Putra (D~NET)][dnet] as a Fullstack Developer for Ruby on Rails. 😎
+- 🔭 I currently work at [PT Dutakom Wibawa Putra (D~NET)][dnet] as a Full-stack Developer for Ruby on Rails. 😎
 - 🌱 I’m currently learning Ruby on Rails & React. 😅
 - 🥅 2021 Goals: Contribute to Open Source projects. 🤩
 - ⚡ Fun fact: I ❤ 🎙 🎮 🐈
