@@ -6,7 +6,7 @@
 ## I'm a Full-stack Developer!
 
 - 🔭 Currently working at [PT Dutakom Wibawa Putra (D~NET)][dnet] as a Back-end Developer for Ruby on Rails. 😎
-- 👨‍💻 Experienced in PHP especially Codeigniter and Laravel
+- 👨‍💻 Experienced in PHP especially Codeigniter and Laravel. 🥰
 - 🌱 Learning Ruby on Rails & React. 😅
 - 🥅 2021 Goals: Contribute to Open Source projects. 🤩
 - ⚡ Fun fact: I ❤ 🎙 🎮 🐈
