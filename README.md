@@ -29,7 +29,7 @@
 
 > 🏆 84 Contributions in the Year 2021
  > 
-> 📦 139.9 kB Used in GitHub's Storage 
+> 📦 140.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -100,7 +100,7 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2021
+ Last Updated on 15/11/2021
 <!--END_SECTION:waka-->
 
 ### Connect with me:
