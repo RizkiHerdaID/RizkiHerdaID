@@ -53,8 +53,6 @@
 <br />
 <br />
 
----
-
 [website]: https://rizkiherdaid.github.io
 [dnet]: http://dnetprovider.id
 [twitter]: https://twitter.com/RizkiHerdaID
