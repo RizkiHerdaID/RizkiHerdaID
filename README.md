@@ -20,6 +20,10 @@
 - 📫 How to reach me **rizkiherda@gmail.com**
 - ⚡ Fun fact **I ❤ 🎙 🎮 🐈**
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Connect with me:
 
 [<img align="left" alt="RizkiHerdaID" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
