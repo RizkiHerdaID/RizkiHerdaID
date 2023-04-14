@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [PT Dutakom Wibawa Putra (D~NET)](https://dnetprovider.id) as a Back-end Developer for Ruby on Rails
 - 🌱 I’m currently learning **Ruby on Rails & React**
-- 💬 Ask me about **Codeigniter, Laravel, Ruby on Rails and React**
+- 💬 Ask me about **Codeigniter, Laravel and Ruby on Rails**
 - 📫 How to reach me **rizkiherda@gmail.com**
 - ⚡ Fun fact **I ❤ 🎙 🎮 🐈**
 
