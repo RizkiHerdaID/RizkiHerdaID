@@ -22,7 +22,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C983%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C986%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,16 +67,19 @@ Sunday                   316 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      2 hrs 58 mins       ████████████████████████░   95.84 % 
+SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sablonin                 3 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -92,7 +95,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2023 00:26:35 UTC
+ Last Updated on 03/12/2023 00:29:59 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
