@@ -32,6 +32,8 @@
 
 > 📦 211.3 kB Used in GitHub's Storage 
  > 
+> 🏆 6 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -65,16 +67,18 @@ Sunday                   318 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      3 hrs 11 mins       █████████████████████████   98.13 % 
+SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sablonin                 3 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -90,7 +94,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2024 00:29:20 UTC
+ Last Updated on 20/06/2024 00:28:40 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
