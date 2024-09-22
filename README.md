@@ -67,16 +67,17 @@ Sunday                   336 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 46 mins        ████████████████████████░   95.91 % 
+Blade Template           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sablonin2                1 hr 51 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -92,7 +93,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2024 00:32:24 UTC
+ Last Updated on 22/09/2024 00:36:28 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
