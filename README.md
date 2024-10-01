@@ -14,10 +14,10 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on [PT Dutakom Wibawa Putra (D~NET)](https://dnetprovider.id) as a Back-end Developer for Ruby on Rails
-- 🌱 I’m currently learning **Ruby on Rails & React**
+- 🔭 I’m currently working on [PT. Loker Asli Indonesia](https://www.loker.id/) as a Back-end Developer for Laravel
+- 🌱 I’m currently learning **Laravel & React**
 - 💬 Ask me about **Codeigniter, Laravel and Ruby on Rails**
-- 📫 How to reach me **rizkiherda@gmail.com**
+- 📫 How to reach me **rizkiherdaid@gmail.com**
 - ⚡ Fun fact **I ❤ 🎙 🎮 🐈**
 
 
