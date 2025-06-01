@@ -79,18 +79,17 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 
 ## 📬 Connect with Me
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="RizkiHerdaID | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="RizkiHerdaID | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RizkiHerdaID | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RizkiHerdaID | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br/>
-
----
-
-<!-- Placeholders for reference links -->
-[website]: https://rizkiherdaid.github.io
-[twitter]: https://twitter.com/RizkiHerdaID
-[linkedin]: https://linkedin.com/in/RizkiHerdaID
-[youtube]: https://www.youtube.com/channel/UCUCmGb5NJcm3xWB4xDliZ_Q
-[instagram]: https://instagram.com/RizkiHerdaID
+<p align="left">
+  <a href="https://twitter.com/RizkiHerdaID" target="_blank">
+    <img alt="Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/RizkiHerdaID" target="_blank">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="30" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCUCmGb5NJcm3xWB4xDliZ_Q" target="_blank">
+    <img alt="YouTube" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" width="30" />
+  </a>
+  <a href="https://instagram.com/RizkiHerdaID" target="_blank">
+    <img alt="Instagram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="30" />
+  </a>
+</p>
