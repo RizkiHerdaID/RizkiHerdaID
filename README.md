@@ -29,14 +29,80 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C985%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.2%20million%20lines%20of%20code-blue)
 
-<!-- Replace with your own stats if desired -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkiHerdaID&show_icons=true&theme=radical" alt="RizkiHerdaID github stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiHerdaID&layout=compact&theme=radical" height="165">
-</p>
+**🐱 My GitHub Data** 
+
+> 📦 163.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 8 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 40 Public Repositories 
+ > 
+> 🔑 37 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1606 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+🌆 Daytime                2401 commits        ██████████░░░░░░░░░░░░░░░   41.71 % 
+🌃 Evening                570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+🌙 Night                  1179 commits        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1631 commits        ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+Tuesday                  897 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Wednesday                605 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Thursday                 542 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Friday                   1003 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Saturday                 682 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Sunday                   396 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      5 hrs 25 mins       █████████████████████████   98.94 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 28 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+loker-backend            5 hrs 28 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      5 hrs 28 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      29 repos            █████████████░░░░░░░░░░░░   53.70 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+```
+
+
+
+
+ Last Updated on 02/06/2025 00:42:03 UTC
 <!--END_SECTION:waka-->
 
 ---
