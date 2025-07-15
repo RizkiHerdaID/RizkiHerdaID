@@ -73,18 +73,16 @@ Sunday                   396 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      4 hrs 41 mins       ████████████████████████░   97.02 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-loker-backend            4 hrs 50 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      4 hrs 50 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -100,7 +98,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2025 00:44:24 UTC
+ Last Updated on 15/07/2025 00:42:59 UTC
 <!--END_SECTION:waka-->
 
 ---
