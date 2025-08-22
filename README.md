@@ -17,7 +17,7 @@
 
 I’m a **Full-stack Developer** passionate about building robust, scalable web applications and delivering solutions that make a difference.
 
-- 🏢 Currently at **PT. Loker Asli Indonesia** as a Back-end Developer (Laravel)
+- 🏢 Currently at **PT Sentra Vidya Utama** as a Back-end Developer (Laravel)
 - 🌱 Learning: **Laravel & React**
 - 💬 Ask me about: **CodeIgniter, Laravel, Ruby on Rails**
 - ✉️ Reach me: **rizkiherdaid@gmail.com**
