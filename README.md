@@ -38,7 +38,7 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 
 > 📦 165.5 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -105,7 +105,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2025 00:40:58 UTC
+ Last Updated on 08/09/2025 00:39:59 UTC
 <!--END_SECTION:waka-->
 
 ---
