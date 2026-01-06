@@ -28,13 +28,15 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 ## 🔥 My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C597%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.31%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.31%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 167.8 kB Used in GitHub's Storage 
+> 📦 168.2 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -44,6 +46,55 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1606 commits        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+🌆 Daytime                2425 commits        ██████████░░░░░░░░░░░░░░░   41.64 % 
+🌃 Evening                582 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+🌙 Night                  1211 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1643 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Tuesday                  897 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Wednesday                605 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Thursday                 542 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Friday                   1023 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Saturday                 714 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Sunday                   400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      11 hrs 32 mins      ███████████████░░░░░░░░░░   58.49 % 
+Other                    7 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.07 % 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Docker                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 51 mins      ████████████████░░░░░░░░░   65.19 % 
+Google Calendar          6 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.81 % 
+
+🐱‍💻 Projects: 
+siacloud                 11 hrs 17 mins      ██████████████░░░░░░░░░░░   57.23 % 
+Unknown Project          6 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.81 % 
+cbt-v3                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+siacloud-lite            21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+docker sia v1 v2 sso     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+
+💻 Operating System: 
+Linux                    12 hrs 51 mins      ████████████████░░░░░░░░░   65.19 % 
+Unknown OS               6 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.81 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -57,7 +108,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 00:49:26 UTC
+ Last Updated on 06/01/2026 00:44:53 UTC
 <!--END_SECTION:waka-->
 
 ---
