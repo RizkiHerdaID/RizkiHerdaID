@@ -28,7 +28,7 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 ## 🔥 My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C627%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C630%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -106,7 +106,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2026 00:48:23 UTC
+ Last Updated on 12/01/2026 00:46:08 UTC
 <!--END_SECTION:waka-->
 
 ---
