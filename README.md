@@ -17,7 +17,7 @@
 
 I’m a **Full-stack Developer** passionate about building robust, scalable web applications and delivering solutions that make a difference.
 
-- 🏢 Currently at **PT Sentra Vidya Utama** as a Full Stack Developer (PHP & Laravel)
+- 🏢 Currently at **Edutech Company** as a Full Stack Developer (PHP & Laravel)
 - 🌱 Learning: **Laravel & React**
 - 💬 Ask me about: **PHP, Laravel, Go, Ruby on Rails**
 - ✉️ Reach me: **rizkiherdaid@gmail.com**
