@@ -73,16 +73,18 @@ Sunday                   406 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      3 hrs 20 mins       █████████████████████████   99.64 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+siacloud                 2 hrs 52 mins       █████████████████████░░░░   85.61 % 
+absensi_untag            29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -98,7 +100,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 01:31:26 UTC
+ Last Updated on 04/06/2026 01:32:36 UTC
 <!--END_SECTION:waka-->
 
 ---
