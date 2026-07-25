@@ -36,7 +36,7 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 
 > 📦 171.7 kB Used in GitHub's Storage 
  > 
-> 🏆 124 Contributions in the Year 2026
+> 🏆 126 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,20 +47,20 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1630 commits        ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-🌆 Daytime                2466 commits        ██████████░░░░░░░░░░░░░░░   41.23 % 
-🌃 Evening                635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-🌙 Night                  1250 commits        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+🌞 Morning                1630 commits        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+🌆 Daytime                2467 commits        ██████████░░░░░░░░░░░░░░░   41.23 % 
+🌃 Evening                635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+🌙 Night                  1251 commits        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1670 commits        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+Monday                   1670 commits        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
 Tuesday                  911 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Wednesday                611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Wednesday                611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 Thursday                 570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Friday                   1056 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Saturday                 754 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Friday                   1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Saturday                 755 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 Sunday                   409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 ```
 
@@ -71,24 +71,23 @@ Sunday                   409 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      15 hrs 10 mins      ███████████████████░░░░░░   77.66 % 
-Markdown                 3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+PHP                      15 hrs 47 mins      ███████████████████░░░░░░   77.48 % 
+Markdown                 3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 34 mins      ███████████████████░░░░░░   74.52 % 
-Claude Code              4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+VS Code                  16 hrs 5 mins       ████████████████████░░░░░   79.01 % 
+Claude Code              4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
 
 🐱‍💻 Projects: 
-siacloud                 18 hrs 19 mins      ███████████████████████░░   93.74 % 
-observer-sessions        1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-siacloud-flow            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+siacloud                 19 hrs 18 mins      ████████████████████████░   94.75 % 
+observer-sessions        1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 rizki-sevima             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    19 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -104,7 +103,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 03:39:04 UTC
+ Last Updated on 25/07/2026 03:34:59 UTC
 <!--END_SECTION:waka-->
 
 ---
