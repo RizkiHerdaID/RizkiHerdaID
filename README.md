@@ -28,10 +28,6 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 ## 🔥 My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C799%20hrs%2050%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2016%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.42%20million%20lines%20of%20code-blue?style=flat)
@@ -75,47 +71,50 @@ Sunday                   409 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      14 hrs 38 mins      ███████████████████░░░░░░   77.43 % 
-Markdown                 3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+PHP                      15 hrs 58 mins      ███████████████████░░░░░░   74.95 % 
+Markdown                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 3 mins       █████████████████████░░░░   84.90 % 
-Claude Code              2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+VS Code                  16 hrs 57 mins      ████████████████████░░░░░   79.54 % 
+Claude Code              4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
 
 🐱‍💻 Projects: 
-siacloud                 17 hrs 53 mins      ████████████████████████░   94.63 % 
-observer-sessions        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-siacloud-flow            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+siacloud                 19 hrs 42 mins      ███████████████████████░░   92.41 % 
+observer-sessions        1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+open-webui               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+siacloud-flow            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Linux                    18 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 53 mins (25.89%)
+⏱ AI Coding Time: 6 hrs 52 mins (32.23%)
 
-✍️ 1,166 lines written by AI, 1,030 lines written by hand (53.1% AI-written)
+✍️ 2,556 lines written by AI, 1,193 lines written by hand (68.18% AI-written)
 
-🔤 64,313,487 Input Tokens, 428,990 Output Tokens
+🔤 156,250,244 Input Tokens, 766,657 Output Tokens
 
-💵 $195.02 Estimated AI Cost This Week
+💵 $475.38 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 471 AI Prompts
+🧠 73 AI Sessions, 559 AI Prompts
 
-Sonnet                   1,235 lines         █████████████████████████   100.00 % 
+Sonnet                   3,067 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.1% of written lines came from AI
-📚 Verbose Prompter — average 5,109 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 63.08% of changed lines were hand-edited
+🤖 AI-Driven — 68.18% of written lines came from AI
+📚 Verbose Prompter — average 5,543 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 43.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -131,7 +130,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 03:31:24 UTC
+ Last Updated on 29/07/2026 03:33:01 UTC
 <!--END_SECTION:waka-->
 
 ---
