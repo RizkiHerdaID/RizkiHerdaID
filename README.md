@@ -28,9 +28,9 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 ## 🔥 My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C826%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C834%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -40,7 +40,7 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 
 > 📦 175.0 kB Used in GitHub's Storage 
  > 
-> 🏆 303 Contributions in the Year 2026
+> 🏆 304 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -52,15 +52,15 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 
 ```text
 🌞 Morning                1658 commits        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-🌆 Daytime                2524 commits        ██████████░░░░░░░░░░░░░░░   40.98 % 
+🌆 Daytime                2525 commits        ██████████░░░░░░░░░░░░░░░   40.99 % 
 🌃 Evening                686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
 🌙 Night                  1291 commits        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1704 commits        ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-Tuesday                  915 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Monday                   1704 commits        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Tuesday                  916 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 Wednesday                611 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 Thursday                 570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 Friday                   1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
@@ -75,51 +75,51 @@ Sunday                   537 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      18 hrs 10 mins      ████████████████░░░░░░░░░   63.99 % 
-Markdown                 6 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-YAML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Git Config               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+PHP                      18 hrs 59 mins      ███████████████░░░░░░░░░░   60.79 % 
+Markdown                 7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Bash                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 12 mins      █████████████████░░░░░░░░   67.63 % 
-Claude Code              9 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.37 % 
+VS Code                  22 hrs 8 mins       ██████████████████░░░░░░░   70.87 % 
+Claude Code              9 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.13 % 
 
 🐱‍💻 Projects: 
-siacloud                 24 hrs 56 mins      ██████████████████████░░░   87.82 % 
-observer-sessions        3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-improvement-echo-299-pemb6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-siacloud-flow            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-open-webui               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+siacloud                 27 hrs 58 mins      ██████████████████████░░░   89.54 % 
+observer-sessions        2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+siacloud-flow            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+rizki-sevima             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+improvement-echo-299-pemb6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    28 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 51 mins (62.88%)
+⏱ AI Coding Time: 20 hrs 24 mins (65.36%)
 
-✍️ 6,366 lines written by AI, 1,165 lines written by hand (84.53% AI-written)
+✍️ 7,024 lines written by AI, 1,302 lines written by hand (84.36% AI-written)
 
-🔤 343,694,405 Input Tokens, 1,685,720 Output Tokens
+🔤 261,724,105 Input Tokens, 1,436,485 Output Tokens
 
-💵 $1052.43 Estimated AI Cost This Week
+💵 $798.26 Estimated AI Cost This Week
 
-🧠 134 AI Sessions, 994 AI Prompts
+🧠 150 AI Sessions, 919 AI Prompts
 
-Sonnet                   6,238 lines         ██████████████████████░░░   88.34 % 
-Deepseek                 823 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Sonnet                   4,773 lines         ████████████████░░░░░░░░░   64.84 % 
+Deepseek                 2,020 lines         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Mimo                     568 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.53% of written lines came from AI
-📚 Verbose Prompter — average 5,870 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 24.26% of changed lines were hand-edited
+🤖 AI-Driven — 84.36% of written lines came from AI
+📚 Verbose Prompter — average 5,251 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 24.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -135,7 +135,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 03:34:10 UTC
+ Last Updated on 05/08/2026 03:29:09 UTC
 <!--END_SECTION:waka-->
 
 ---
