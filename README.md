@@ -28,13 +28,17 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 ## 🔥 My GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C846%20hrs%2037%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2050%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.50%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 175.0 kB Used in GitHub's Storage 
+> 📦 173.4 kB Used in GitHub's Storage 
  > 
 > 🏆 304 Contributions in the Year 2026
  > 
@@ -44,6 +48,82 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1658 commits        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+🌆 Daytime                2525 commits        ██████████░░░░░░░░░░░░░░░   40.99 % 
+🌃 Evening                686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+🌙 Night                  1291 commits        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1704 commits        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Tuesday                  916 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Wednesday                611 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Thursday                 570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Friday                   1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Saturday                 765 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Sunday                   537 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      11 hrs 48 mins      █████████████░░░░░░░░░░░░   51.94 % 
+Markdown                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Other                    2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Git Config               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 30 mins      █████████████████░░░░░░░░   68.25 % 
+Claude Code              5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Google Calendar          2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+
+🐱‍💻 Projects: 
+siacloud                 18 hrs 37 mins      ████████████████████░░░░░   81.94 % 
+Unknown Project          2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+observer-sessions        57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+rizki-sevima             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+siacloud-flow            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+
+💻 Operating System: 
+Linux                    20 hrs 39 mins      ███████████████████████░░   90.88 % 
+Unknown OS               2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 14 hrs 27 mins (63.62%)
+
+✍️ 4,950 lines written by AI, 520 lines written by hand (90.49% AI-written)
+
+🔤 120,836,365 Input Tokens, 710,274 Output Tokens
+
+💵 $495.55 Estimated AI Cost This Week
+
+🧠 95 AI Sessions, 443 AI Prompts
+
+Sonnet                   2,589 lines         ████████████░░░░░░░░░░░░░   49.83 % 
+Deepseek                 2,039 lines         ██████████░░░░░░░░░░░░░░░   39.24 % 
+Mimo                     568 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 90.49% of written lines came from AI
+📚 Verbose Prompter — average 4,154 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 13.12% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -57,7 +137,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 03:15:48 UTC
+ Last Updated on 08/08/2026 02:13:46 UTC
 <!--END_SECTION:waka-->
 
 ---
