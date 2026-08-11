@@ -34,13 +34,13 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.57%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 173.4 kB Used in GitHub's Storage 
  > 
-> 🏆 304 Contributions in the Year 2026
+> 🏆 306 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,21 +51,21 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1658 commits        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-🌆 Daytime                2525 commits        ██████████░░░░░░░░░░░░░░░   40.99 % 
-🌃 Evening                686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-🌙 Night                  1291 commits        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+🌞 Morning                1686 commits        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+🌆 Daytime                2582 commits        ██████████░░░░░░░░░░░░░░░   40.93 % 
+🌃 Evening                715 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+🌙 Night                  1326 commits        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1704 commits        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-Tuesday                  916 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Wednesday                611 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Thursday                 570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Friday                   1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Saturday                 765 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Sunday                   537 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Monday                   1722 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Tuesday                  919 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Wednesday                611 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Thursday                 570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Friday                   1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Saturday                 765 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Sunday                   665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 ```
 
 
@@ -75,53 +75,53 @@ Sunday                   537 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      11 hrs 48 mins      █████████████░░░░░░░░░░░░   51.94 % 
-Markdown                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Other                    2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Git Config               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+PHP                      11 hrs 53 mins      ████████████░░░░░░░░░░░░░   49.73 % 
+Markdown                 5 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+Other                    3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Git Config               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 30 mins      █████████████████░░░░░░░░   68.25 % 
-Claude Code              5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-Google Calendar          2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+VS Code                  16 hrs 8 mins       █████████████████░░░░░░░░   67.52 % 
+Claude Code              4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Google Calendar          3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 
 🐱‍💻 Projects: 
-siacloud                 18 hrs 37 mins      ████████████████████░░░░░   81.94 % 
-Unknown Project          2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-observer-sessions        57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-rizki-sevima             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-siacloud-flow            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+siacloud                 19 hrs 42 mins      █████████████████████░░░░   82.40 % 
+Unknown Project          3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+rizki-sevima             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+siacloud-flow            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+models                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Linux                    20 hrs 39 mins      ███████████████████████░░   90.88 % 
-Unknown OS               2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Linux                    20 hrs 50 mins      ██████████████████████░░░   87.16 % 
+Unknown OS               3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 27 mins (63.62%)
+⏱ AI Coding Time: 11 hrs 59 mins (50.13%)
 
-✍️ 4,950 lines written by AI, 520 lines written by hand (90.49% AI-written)
+✍️ 3,968 lines written by AI, 520 lines written by hand (88.41% AI-written)
 
-🔤 120,836,365 Input Tokens, 710,274 Output Tokens
+🔤 51,869,928 Input Tokens, 525,893 Output Tokens
 
-💵 $495.55 Estimated AI Cost This Week
+💵 $139.43 Estimated AI Cost This Week
 
-🧠 95 AI Sessions, 443 AI Prompts
+🧠 81 AI Sessions, 221 AI Prompts
 
-Sonnet                   2,589 lines         ████████████░░░░░░░░░░░░░   49.83 % 
-Deepseek                 2,039 lines         ██████████░░░░░░░░░░░░░░░   39.24 % 
-Mimo                     568 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   2,251 lines         ██████████████░░░░░░░░░░░   55.12 % 
+Deepseek                 1,263 lines         ████████░░░░░░░░░░░░░░░░░   30.93 % 
+Mimo                     568 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Github-Copilot           2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.49% of written lines came from AI
-📚 Verbose Prompter — average 4,154 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 13.12% of changed lines were hand-edited
+🤖 AI-Driven — 88.41% of written lines came from AI
+📚 Verbose Prompter — average 1,777 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 17.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -137,7 +137,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 02:31:40 UTC
+ Last Updated on 11/08/2026 02:24:20 UTC
 <!--END_SECTION:waka-->
 
 ---
