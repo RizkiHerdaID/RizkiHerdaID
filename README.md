@@ -28,9 +28,9 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 ## 🔥 My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C860%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C868%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,54 +75,55 @@ Sunday                   665 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      16 hrs 55 mins      ██████████████████░░░░░░░   72.61 % 
-Markdown                 4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Git Config               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Docker                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+PHP                      20 hrs 53 mins      █████████████████░░░░░░░░   66.04 % 
+Markdown                 5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Other                    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Bash                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JavaScript               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 8 mins       ███████████████████░░░░░░   77.84 % 
-Claude Code              4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Google Calendar          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+VS Code                  25 hrs 29 mins      ████████████████████░░░░░   80.54 % 
+Claude Code              5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Google Calendar          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-siacloud                 21 hrs 37 mins      ███████████████████████░░   92.76 % 
-Unknown Project          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-observer-sessions        27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-models                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-rizki-sevima             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+siacloud                 28 hrs 4 mins       ██████████████████████░░░   88.73 % 
+eroewin-site             1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Unknown Project          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+observer-sessions        59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+browser_harness          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Linux                    22 hrs 18 mins      ████████████████████████░   95.71 % 
-Unknown OS               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Linux                    29 hrs 32 mins      ███████████████████████░░   93.34 % 
+Windows                  1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Unknown OS               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 52 mins (55.23%)
+⏱ AI Coding Time: 19 hrs 34 mins (61.84%)
 
-✍️ 2,728 lines written by AI, 1,082 lines written by hand (71.6% AI-written)
+✍️ 3,809 lines written by AI, 1,187 lines written by hand (76.24% AI-written)
 
-🔤 9,032,679 Input Tokens, 1,439,803 Output Tokens
+🔤 11,475,375 Input Tokens, 2,140,151 Output Tokens
 
-💵 $948.38 Estimated AI Cost This Week
+💵 $1605.70 Estimated AI Cost This Week
 
-🧠 88 AI Sessions, 361 AI Prompts
+🧠 121 AI Sessions, 549 AI Prompts
 
-Deepseek                 1,794 lines         ███████████████░░░░░░░░░░   61.31 % 
-Sonnet                   1,130 lines         ██████████░░░░░░░░░░░░░░░   38.62 % 
-Github-Copilot           2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Deepseek                 2,552 lines         ████████████████░░░░░░░░░   63.01 % 
+Sonnet                   1,450 lines         █████████░░░░░░░░░░░░░░░░   35.80 % 
+Hermes                   46 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Github-Copilot           2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.6% of written lines came from AI
-📚 Verbose Prompter — average 9,937 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 35.81% of changed lines were hand-edited
+🤖 AI-Driven — 76.24% of written lines came from AI
+📚 Verbose Prompter — average 8,411 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 34.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -138,7 +139,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 02:41:01 UTC
+ Last Updated on 14/08/2026 02:40:30 UTC
 <!--END_SECTION:waka-->
 
 ---
