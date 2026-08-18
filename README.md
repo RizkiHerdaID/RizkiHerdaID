@@ -75,55 +75,53 @@ Sunday                   921 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      22 hrs 29 mins      ████████████████░░░░░░░░░   63.17 % 
-Markdown                 6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Other                    2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+PHP                      17 hrs 26 mins      █████████████████░░░░░░░░   66.07 % 
+Markdown                 4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 45 mins      ████████████████████░░░░░   80.76 % 
-Claude Code              5 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Google Calendar          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+VS Code                  22 hrs 12 mins      █████████████████████░░░░   84.12 % 
+Claude Code              4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-siacloud                 31 hrs 20 mins      ██████████████████████░░░   87.98 % 
-observer-sessions        1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-eroewin-site             1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Unknown Project          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-hermes-agent             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+siacloud                 23 hrs 16 mins      ██████████████████████░░░   88.13 % 
+observer-sessions        1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+eroewin-site             1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+hermes-agent             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+browser_harness          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Linux                    33 hrs 30 mins      ████████████████████████░   94.08 % 
-Windows                  1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Unknown OS               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Linux                    25 hrs 18 mins      ████████████████████████░   95.80 % 
+Windows                  1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 48 mins (64.03%)
+⏱ AI Coding Time: 18 hrs 36 mins (70.46%)
 
-✍️ 4,380 lines written by AI, 1,198 lines written by hand (78.52% AI-written)
+✍️ 3,684 lines written by AI, 1,097 lines written by hand (77.06% AI-written)
 
-🔤 16,852,333 Input Tokens, 2,794,580 Output Tokens
+🔤 15,323,466 Input Tokens, 2,598,296 Output Tokens
 
-💵 $1754.38 Estimated AI Cost This Week
+💵 $1718.00 Estimated AI Cost This Week
 
-🧠 154 AI Sessions, 641 AI Prompts
+🧠 129 AI Sessions, 581 AI Prompts
 
-Deepseek                 2,715 lines         ███████████████░░░░░░░░░░   58.73 % 
-Sonnet                   1,595 lines         █████████░░░░░░░░░░░░░░░░   34.50 % 
-Hermes                   311 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Github-Copilot           2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Deepseek                 2,668 lines         █████████████████░░░░░░░░   68.38 % 
+Sonnet                   923 lines           ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Hermes                   311 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.52% of written lines came from AI
-📚 Verbose Prompter — average 8,409 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 31.68% of changed lines were hand-edited
+🤖 AI-Driven — 77.06% of written lines came from AI
+📚 Verbose Prompter — average 9,201 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 32.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -139,7 +137,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 01:53:54 UTC
+ Last Updated on 18/08/2026 01:48:23 UTC
 <!--END_SECTION:waka-->
 
 ---
