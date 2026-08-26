@@ -28,9 +28,9 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 ## 🔥 My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C896%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C903%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -75,47 +75,47 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      18 hrs 28 mins      ███████████████████░░░░░░   76.05 % 
-Markdown                 3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Other                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Git Config               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+PHP                      14 hrs 16 mins      ███████████████████░░░░░░   75.27 % 
+Markdown                 2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 49 mins      ████████████████████░░░░░   81.60 % 
-Claude Code              4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+VS Code                  15 hrs 39 mins      █████████████████████░░░░   82.59 % 
+Claude Code              3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
 
 🐱‍💻 Projects: 
-siacloud                 22 hrs 20 mins      ███████████████████████░░   91.95 % 
-observer-sessions        1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-rizki-sevima             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+siacloud                 17 hrs 36 mins      ███████████████████████░░   92.87 % 
+observer-sessions        1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+rizki-sevima             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Operating System: 
-Linux                    24 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 3 mins (37.3%)
+⏱ AI Coding Time: 7 hrs 2 mins (37.12%)
 
-✍️ 1,098 lines written by AI, 1,797 lines written by hand (37.93% AI-written)
+✍️ 904 lines written by AI, 1,274 lines written by hand (41.51% AI-written)
 
-🔤 8,948,860 Input Tokens, 1,122,158 Output Tokens
+🔤 5,697,429 Input Tokens, 755,572 Output Tokens
 
-💵 $111.75 Estimated AI Cost This Week
+💵 $89.59 Estimated AI Cost This Week
 
-🧠 85 AI Sessions, 699 AI Prompts
+🧠 60 AI Sessions, 451 AI Prompts
 
-Sonnet                   1,327 lines         █████████████████████████   99.62 % 
-Deepseek                 5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Sonnet                   1,111 lines         █████████████████████████   99.55 % 
+Deepseek                 5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.93% of written lines came from AI
-📚 Verbose Prompter — average 11,610 characters per prompt
+⚖️ Balanced with AI — 41.51% of written lines came from AI
+📚 Verbose Prompter — average 11,425 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 73.82% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 71.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -131,7 +131,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 01:51:03 UTC
+ Last Updated on 26/08/2026 01:56:25 UTC
 <!--END_SECTION:waka-->
 
 ---
