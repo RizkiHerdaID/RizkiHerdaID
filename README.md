@@ -38,7 +38,7 @@ I’m a **Full-stack Developer** passionate about building robust, scalable web 
 
 **🐱 My GitHub Data** 
 
-> 📦 175.2 kB Used in GitHub's Storage 
+> 📦 175.4 kB Used in GitHub's Storage 
  > 
 > 🏆 430 Contributions in the Year 2026
  > 
@@ -75,47 +75,47 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      14 hrs 16 mins      ███████████████████░░░░░░   75.27 % 
-Markdown                 2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+PHP                      15 hrs 32 mins      ████████████████████░░░░░   79.24 % 
+Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Git Config               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 39 mins      █████████████████████░░░░   82.59 % 
-Claude Code              3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+VS Code                  15 hrs 35 mins      ████████████████████░░░░░   79.49 % 
+Claude Code              4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
 
 🐱‍💻 Projects: 
-siacloud                 17 hrs 36 mins      ███████████████████████░░   92.87 % 
-observer-sessions        1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-rizki-sevima             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+siacloud                 17 hrs 57 mins      ███████████████████████░░   91.54 % 
+observer-sessions        1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+rizki-sevima             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Linux                    18 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 2 mins (37.12%)
+⏱ AI Coding Time: 8 hrs 1 min (40.93%)
 
-✍️ 904 lines written by AI, 1,274 lines written by hand (41.51% AI-written)
+✍️ 962 lines written by AI, 1,404 lines written by hand (40.66% AI-written)
 
-🔤 5,697,429 Input Tokens, 755,572 Output Tokens
+🔤 6,449,478 Input Tokens, 863,224 Output Tokens
 
-💵 $89.59 Estimated AI Cost This Week
+💵 $72.81 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 451 AI Prompts
+🧠 64 AI Sessions, 607 AI Prompts
 
-Sonnet                   1,111 lines         █████████████████████████   99.55 % 
-Deepseek                 5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Sonnet                   1,194 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.51% of written lines came from AI
-📚 Verbose Prompter — average 11,425 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 71.97% of changed lines were hand-edited
+⚖️ Balanced with AI — 40.66% of written lines came from AI
+📚 Verbose Prompter — average 10,748 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 71.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -131,7 +131,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 01:56:25 UTC
+ Last Updated on 27/08/2026 09:30:51 UTC
 <!--END_SECTION:waka-->
 
 ---
