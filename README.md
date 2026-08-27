@@ -22,13 +22,9 @@ _Halo! Saya Rizki — feel free to reach out in Bahasa Indonesia._ 🇮🇩
 Tracked with [WakaTime](https://wakatime.com), updated daily. Yes — it's mostly PHP. 🐘
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C903%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C908%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%201%20min-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.85%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2052%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,7 +42,7 @@ Tracked with [WakaTime](https://wakatime.com), updated daily. Yes — it's mostl
 
 ```text
 🌞 Morning                1782 commits        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-🌆 Daytime                2805 commits        ██████████░░░░░░░░░░░░░░░   40.68 % 
+🌆 Daytime                2806 commits        ██████████░░░░░░░░░░░░░░░   40.68 % 
 🌃 Evening                865 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 🌙 Night                  1444 commits        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
 ```
@@ -54,10 +50,10 @@ Tracked with [WakaTime](https://wakatime.com), updated daily. Yes — it's mostl
 
 ```text
 Monday                   1822 commits        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-Tuesday                  939 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Tuesday                  939 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 Wednesday                620 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Thursday                 609 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Friday                   1092 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Thursday                 610 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Friday                   1092 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 Saturday                 765 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 Sunday                   1049 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 ```
@@ -78,11 +74,6 @@ JavaScript               7 mins              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  15 hrs 35 mins      ████████████████████░░░░░   79.49 % 
 Claude Code              4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-
-🐱‍💻 Projects: 
-siacloud                 17 hrs 57 mins      ███████████████████████░░   91.54 % 
-observer-sessions        1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-rizki-sevima             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
 Linux                    19 hrs 37 mins      █████████████████████████   100.00 % 
@@ -125,7 +116,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 09:30:51 UTC
+ Last Updated on 27/08/2026 10:22:56 UTC
 <!--END_SECTION:waka-->
 
 ## Elsewhere
