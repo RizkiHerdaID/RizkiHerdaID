@@ -1,31 +1,25 @@
-<!-- Standout Profile README for RizkiHerdaID -->
+**Rizki Herda** — full-stack developer (PHP · Laravel) in Surabaya, Indonesia. On GitHub since 2014.
 
-<h1 align="center">Hi there, I'm Rizki Herda 👋</h1>
-
-<p align="center">
-  <a href="https://rizkiherdaid.github.io/">
-    <img alt="Website" src="https://img.shields.io/website?label=RizkiHerdaID&style=for-the-badge&url=https%3A%2F%2Frizkiherdaid.github.io">
-  </a>
-  <a href="https://twitter.com/RizkiHerdaID">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/RizkiHerdaID?color=1DA1F2&logo=twitter&style=for-the-badge">
-  </a>
-</p>
+_Halo! Saya Rizki — feel free to reach out in Bahasa Indonesia._ 🇮🇩
 
 ---
 
-## 🚀 About Me
+## Now
 
-I’m a **Full-stack Developer** passionate about building robust, scalable web applications and delivering solutions that make a difference.
+- 🏢 Full Stack Developer at **PT Sentra Vidya Utama** — building edutech products with PHP & Laravel
+- 🌱 Leveling up: React & Next.js ([react-complete-guide](https://github.com/RizkiHerdaID/react-complete-guide)), Docker & DevOps ([udemy-docker-mastery](https://github.com/RizkiHerdaID/udemy-docker-mastery)), notes in [docs](https://github.com/RizkiHerdaID/docs)
+- 🏠 Self-hosting a homelab — [rizkilab](https://github.com/RizkiHerdaID/rizkilab): services, dashboards & automation at [home.rizkilab.my.id](https://home.rizkilab.my.id)
 
-- 🏢 Currently at **Edutech Company** as a Full Stack Developer (PHP & Laravel)
-- 🌱 Learning: **Laravel & React**
-- 💬 Ask me about: **PHP, Laravel, Go, Ruby on Rails**
-- ✉️ Reach me: **rizkiherdaid@gmail.com**
-- ⚡ Fun fact: I love podcasts, gaming, and cats!
+## Featured work
 
----
+- [**coffee-shop**](https://github.com/RizkiHerdaID/coffee-shop) — Laravel 13 coffee shop landing page
+- [**rizkilab**](https://github.com/RizkiHerdaID/rizkilab) — homelab infrastructure: self-hosted apps, dashboards & automations
+- [**show-cli**](https://github.com/RizkiHerdaID/show-cli) — a CLI tool written in Go
+- [**docs**](https://github.com/RizkiHerdaID/docs) — MDX knowledge base: learning in public
 
-## 🔥 My GitHub Stats
+## Weekly stats
+
+Tracked with [WakaTime](https://wakatime.com), updated daily. Yes — it's mostly PHP. 🐘
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C903%20hrs%2010%20mins-blue?style=flat)
@@ -134,57 +128,8 @@ Python                   1 repo              ░░░░░░░░░░░�
  Last Updated on 27/08/2026 09:30:51 UTC
 <!--END_SECTION:waka-->
 
----
+## Elsewhere
 
-## 🧰 My Tech Toolbox
+[LinkedIn](https://linkedin.com/in/RizkiHerdaID) · [X / Twitter](https://twitter.com/RizkiHerdaID) · [YouTube](https://www.youtube.com/channel/UCUCmGb5NJcm3xWB4xDliZ_Q) · [Email](mailto:rizkiherdaid@gmail.com)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <!-- Add more icons as needed -->
-</p>
-
----
-
-## 🌱 What I’m Learning Next
-
-- Advanced Laravel ecosystem (queues, testing, API design)
-- Modern React & Next.js
-- Cloud platforms & DevOps basics
-- Open Source contributions
-
----
-
-## 🎉 Fun Facts
-
-- 🎙️ I enjoy listening to podcasts while coding.
-- 🎮 Gaming is my go-to stress reliever.
-- 🐈 Cat person 100%!
-- 💡 Motto: _"Code with passion, deploy with purpose."_
-
----
-
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/RizkiHerdaID" target="_blank">
-    <img alt="Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/RizkiHerdaID" target="_blank">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="30" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCUCmGb5NJcm3xWB4xDliZ_Q" target="_blank">
-    <img alt="YouTube" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" width="30" />
-  </a>
-  <a href="https://instagram.com/RizkiHerdaID" target="_blank">
-    <img alt="Instagram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="30" />
-  </a>
-</p>
+Outside code: I make gaming videos as **Eroewin** on [YouTube](https://www.youtube.com/channel/UCUCmGb5NJcm3xWB4xDliZ_Q), I'm a podcast person, and my cat supervises every commit. 🐈
