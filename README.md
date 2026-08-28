@@ -30,7 +30,7 @@ Tracked with [WakaTime](https://wakatime.com), updated daily. Yes — it's mostl
 
 > 📦 175.4 kB Used in GitHub's Storage 
  > 
-> 🏆 430 Contributions in the Year 2026
+> 🏆 431 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,42 +65,43 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      15 hrs 32 mins      ████████████████████░░░░░   79.24 % 
-Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Git Config               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+PHP                      17 hrs 41 mins      ███████████████████░░░░░░   77.20 % 
+Markdown                 3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Git Config               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 35 mins      ████████████████████░░░░░   79.49 % 
-Claude Code              4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+VS Code                  17 hrs 48 mins      ███████████████████░░░░░░   77.70 % 
+Claude Code              5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
 
 💻 Operating System: 
-Linux                    19 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 1 min (40.93%)
+⏱ AI Coding Time: 9 hrs 40 mins (42.18%)
 
-✍️ 962 lines written by AI, 1,404 lines written by hand (40.66% AI-written)
+✍️ 2,319 lines written by AI, 1,469 lines written by hand (61.22% AI-written)
 
-🔤 6,449,478 Input Tokens, 863,224 Output Tokens
+🔤 8,118,424 Input Tokens, 1,029,931 Output Tokens
 
-💵 $72.81 Estimated AI Cost This Week
+💵 $84.58 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 607 AI Prompts
+🧠 83 AI Sessions, 719 AI Prompts
 
-Sonnet                   1,194 lines         █████████████████████████   100.00 % 
+Sonnet                   2,614 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 40.66% of written lines came from AI
-📚 Verbose Prompter — average 10,748 characters per prompt
+⚖️ Balanced with AI — 61.22% of written lines came from AI
+📚 Verbose Prompter — average 10,883 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 71.28% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 50.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -116,7 +117,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 10:22:56 UTC
+ Last Updated on 28/08/2026 11:17:23 UTC
 <!--END_SECTION:waka-->
 
 ## Elsewhere
