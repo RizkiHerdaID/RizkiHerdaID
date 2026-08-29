@@ -22,9 +22,9 @@ _Halo! Saya Rizki — feel free to reach out in Bahasa Indonesia._ 🇮🇩
 Tracked with [WakaTime](https://wakatime.com), updated daily. Yes — it's mostly PHP. 🐘
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C908%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C913%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2024%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,43 +65,44 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      17 hrs 41 mins      ███████████████████░░░░░░   77.20 % 
-Markdown                 3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Git Config               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+PHP                      16 hrs 51 mins      ████████████████░░░░░░░░░   64.18 % 
+Other                    4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Markdown                 4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 48 mins      ███████████████████░░░░░░   77.70 % 
-Claude Code              5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+VS Code                  17 hrs 11 mins      ████████████████░░░░░░░░░   65.40 % 
+Claude Code              6 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+Google Calendar          2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 
 💻 Operating System: 
-Linux                    22 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 46 mins      ███████████████████████░░   90.49 % 
+Unknown OS               2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 40 mins (42.18%)
+⏱ AI Coding Time: 10 hrs 38 mins (40.5%)
 
-✍️ 2,319 lines written by AI, 1,469 lines written by hand (61.22% AI-written)
+✍️ 2,685 lines written by AI, 1,325 lines written by hand (66.96% AI-written)
 
-🔤 8,118,424 Input Tokens, 1,029,931 Output Tokens
+🔤 8,284,240 Input Tokens, 1,165,111 Output Tokens
 
-💵 $84.58 Estimated AI Cost This Week
+💵 $97.09 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 719 AI Prompts
+🧠 97 AI Sessions, 837 AI Prompts
 
-Sonnet                   2,614 lines         █████████████████████████   100.00 % 
+Sonnet                   3,086 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.22% of written lines came from AI
-📚 Verbose Prompter — average 10,883 characters per prompt
+🤖 AI-Driven — 66.96% of written lines came from AI
+📚 Verbose Prompter — average 9,963 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 50.63% of changed lines were hand-edited
+🚀 High AI Trust — 44.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -117,7 +118,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 11:17:23 UTC
+ Last Updated on 29/08/2026 07:01:03 UTC
 <!--END_SECTION:waka-->
 
 ## Elsewhere
