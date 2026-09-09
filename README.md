@@ -28,7 +28,7 @@ Tracked with [WakaTime](https://wakatime.com), updated daily. Yes — it's mostl
 
 **🐱 My GitHub Data** 
 
-> 📦 175.4 kB Used in GitHub's Storage 
+> 📦 175.5 kB Used in GitHub's Storage 
  > 
 > 🏆 447 Contributions in the Year 2026
  > 
@@ -65,47 +65,47 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      13 hrs 2 mins       █████████████████░░░░░░░░   66.65 % 
-Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+PHP                      7 hrs 49 mins       ███████████████░░░░░░░░░░   60.35 % 
+Markdown                 1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Other                    1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 18 mins      ██████████████████░░░░░░░   73.15 % 
-Claude Code              3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Google Calendar          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Opencode Cli             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+VS Code                  9 hrs 13 mins       ██████████████████░░░░░░░   71.28 % 
+Claude Code              2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Google Calendar          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Opencode Cli             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 💻 Operating System: 
-Linux                    18 hrs 34 mins      ████████████████████████░   94.89 % 
-Unknown OS               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Linux                    11 hrs 57 mins      ███████████████████████░░   92.28 % 
+Unknown OS               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 12 mins (41.94%)
+⏱ AI Coding Time: 5 hrs 53 mins (45.47%)
 
-✍️ 2,198 lines written by AI, 980 lines written by hand (69.16% AI-written)
+✍️ 942 lines written by AI, 178 lines written by hand (84.11% AI-written)
 
-🔤 10,306,902 Input Tokens, 1,187,631 Output Tokens
+🔤 7,333,403 Input Tokens, 763,484 Output Tokens
 
-💵 $123.82 Estimated AI Cost This Week
+💵 $98.74 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 417 AI Prompts
+🧠 44 AI Sessions, 214 AI Prompts
 
-Sonnet                   2,113 lines         ███████████████████████░░   92.07 % 
-GPT                      103 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Glm                      79 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Sonnet                   820 lines           ████████████████████░░░░░   81.84 % 
+GPT                      103 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Glm                      79 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.16% of written lines came from AI
-📚 Verbose Prompter — average 18,544 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 50.09% of changed lines were hand-edited
+🤖 AI-Driven — 84.11% of written lines came from AI
+📚 Verbose Prompter — average 23,363 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 31.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -121,7 +121,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 04:27:22 UTC
+ Last Updated on 09/09/2026 04:32:20 UTC
 <!--END_SECTION:waka-->
 
 ## Elsewhere
