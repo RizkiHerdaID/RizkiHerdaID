@@ -65,47 +65,42 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      7 hrs 49 mins       ███████████████░░░░░░░░░░   60.35 % 
-Markdown                 1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Other                    1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+PHP                      5 hrs 34 mins       ████████████████████░░░░░   79.46 % 
+JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 13 mins       ██████████████████░░░░░░░   71.28 % 
-Claude Code              2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Google Calendar          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Opencode Cli             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+VS Code                  6 hrs               █████████████████████░░░░   85.62 % 
+Claude Code              1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 
 💻 Operating System: 
-Linux                    11 hrs 57 mins      ███████████████████████░░   92.28 % 
-Unknown OS               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Linux                    7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 53 mins (45.47%)
+⏱ AI Coding Time: 1 hr 33 mins (22.26%)
 
-✍️ 942 lines written by AI, 178 lines written by hand (84.11% AI-written)
+✍️ 165 lines written by AI, 150 lines written by hand (52.38% AI-written)
 
-🔤 7,333,403 Input Tokens, 763,484 Output Tokens
+🔤 1,159,029 Input Tokens, 172,408 Output Tokens
 
-💵 $98.74 Estimated AI Cost This Week
+💵 $10.17 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 214 AI Prompts
+🧠 16 AI Sessions, 55 AI Prompts
 
-Sonnet                   820 lines           ████████████████████░░░░░   81.84 % 
-GPT                      103 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Glm                      79 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   214 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.11% of written lines came from AI
-📚 Verbose Prompter — average 23,363 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 31.98% of changed lines were hand-edited
+⚖️ Balanced with AI — 52.38% of written lines came from AI
+📚 Verbose Prompter — average 15,441 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 59.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -121,7 +116,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 04:32:20 UTC
+ Last Updated on 10/09/2026 04:30:26 UTC
 <!--END_SECTION:waka-->
 
 ## Elsewhere
