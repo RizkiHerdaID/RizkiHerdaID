@@ -65,42 +65,45 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      5 hrs 34 mins       ████████████████████░░░░░   79.46 % 
-JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+PHP                      7 hrs 18 mins       ██████████████████░░░░░░░   71.26 % 
+Markdown                 1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Other                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Diff                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  6 hrs               █████████████████████░░░░   85.62 % 
-Claude Code              1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+VS Code                  8 hrs 6 mins        ████████████████████░░░░░   79.20 % 
+Claude Code              1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Google Calendar          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 
 💻 Operating System: 
-Linux                    7 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    9 hrs 14 mins       ███████████████████████░░   90.24 % 
+Unknown OS               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (22.26%)
+⏱ AI Coding Time: 4 hrs 14 mins (41.31%)
 
-✍️ 165 lines written by AI, 150 lines written by hand (52.38% AI-written)
+✍️ 1,996 lines written by AI, 246 lines written by hand (89.03% AI-written)
 
-🔤 1,159,029 Input Tokens, 172,408 Output Tokens
+🔤 7,090,565 Input Tokens, 508,823 Output Tokens
 
-💵 $10.17 Estimated AI Cost This Week
+💵 $309.92 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 55 AI Prompts
+🧠 20 AI Sessions, 137 AI Prompts
 
-Sonnet                   214 lines           █████████████████████████   100.00 % 
+Glm                      1,635 lines         ████████████████████░░░░░   78.04 % 
+Sonnet                   460 lines           █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.38% of written lines came from AI
-📚 Verbose Prompter — average 15,441 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 59.32% of changed lines were hand-edited
+🤖 AI-Driven — 89.03% of written lines came from AI
+📚 Verbose Prompter — average 16,327 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 27.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -116,7 +119,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 04:30:26 UTC
+ Last Updated on 11/09/2026 04:30:46 UTC
 <!--END_SECTION:waka-->
 
 ## Elsewhere
