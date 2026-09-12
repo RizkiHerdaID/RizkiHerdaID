@@ -22,13 +22,13 @@ _Halo! Saya Rizki — feel free to reach out in Bahasa Indonesia._ 🇮🇩
 Tracked with [WakaTime](https://wakatime.com), updated daily. Yes — it's mostly PHP. 🐘
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C943%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C951%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2023%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 175.5 kB Used in GitHub's Storage 
+> 📦 175.7 kB Used in GitHub's Storage 
  > 
 > 🏆 447 Contributions in the Year 2026
  > 
@@ -65,45 +65,46 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      7 hrs 18 mins       ██████████████████░░░░░░░   71.26 % 
-Markdown                 1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Other                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Diff                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+PHP                      9 hrs 25 mins       ████████████████░░░░░░░░░   64.25 % 
+Markdown                 3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Diff                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 6 mins        ████████████████████░░░░░   79.20 % 
-Claude Code              1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Google Calendar          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+VS Code                  11 hrs 8 mins       ███████████████████░░░░░░   75.89 % 
+Claude Code              2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Google Calendar          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 💻 Operating System: 
-Linux                    9 hrs 14 mins       ███████████████████████░░   90.24 % 
-Unknown OS               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Linux                    13 hrs 40 mins      ███████████████████████░░   93.18 % 
+Unknown OS               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 14 mins (41.31%)
+⏱ AI Coding Time: 8 hrs 22 mins (57.04%)
 
-✍️ 1,996 lines written by AI, 246 lines written by hand (89.03% AI-written)
+✍️ 4,670 lines written by AI, 255 lines written by hand (94.82% AI-written)
 
-🔤 7,090,565 Input Tokens, 508,823 Output Tokens
+🔤 11,317,233 Input Tokens, 987,357 Output Tokens
 
-💵 $309.92 Estimated AI Cost This Week
+💵 $445.27 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 137 AI Prompts
+🧠 56 AI Sessions, 279 AI Prompts
 
-Glm                      1,635 lines         ████████████████████░░░░░   78.04 % 
-Sonnet                   460 lines           █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Sonnet                   2,592 lines         ██████████████░░░░░░░░░░░   54.14 % 
+Glm                      2,196 lines         ███████████░░░░░░░░░░░░░░   45.86 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.03% of written lines came from AI
-📚 Verbose Prompter — average 16,327 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 27.93% of changed lines were hand-edited
+🤖 AI-Driven — 94.82% of written lines came from AI
+📚 Verbose Prompter — average 18,059 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 14.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -119,7 +120,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 04:30:46 UTC
+ Last Updated on 12/09/2026 04:28:42 UTC
 <!--END_SECTION:waka-->
 
 ## Elsewhere
