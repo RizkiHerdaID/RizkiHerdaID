@@ -22,9 +22,9 @@ _Halo! Saya Rizki — feel free to reach out in Bahasa Indonesia._ 🇮🇩
 Tracked with [WakaTime](https://wakatime.com), updated daily. Yes — it's mostly PHP. 🐘
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C951%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C956%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2050%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,26 +65,26 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      9 hrs 25 mins       ████████████████░░░░░░░░░   64.25 % 
-Markdown                 3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Diff                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+PHP                      9 hrs 25 mins       ██████████████░░░░░░░░░░░   56.54 % 
+Markdown                 3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Other                    3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Diff                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 8 mins       ███████████████████░░░░░░   75.89 % 
-Claude Code              2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Google Calendar          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+VS Code                  11 hrs 8 mins       █████████████████░░░░░░░░   66.79 % 
+Google Calendar          3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Claude Code              2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 
 💻 Operating System: 
-Linux                    13 hrs 40 mins      ███████████████████████░░   93.18 % 
-Unknown OS               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Linux                    13 hrs 40 mins      █████████████████████░░░░   82.01 % 
+Unknown OS               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 22 mins (57.04%)
+⏱ AI Coding Time: 8 hrs 22 mins (50.19%)
 
 ✍️ 4,670 lines written by AI, 255 lines written by hand (94.82% AI-written)
 
@@ -120,7 +120,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 04:28:42 UTC
+ Last Updated on 13/09/2026 04:41:37 UTC
 <!--END_SECTION:waka-->
 
 ## Elsewhere
