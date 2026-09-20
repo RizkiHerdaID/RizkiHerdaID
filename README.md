@@ -28,7 +28,7 @@ Tracked with [WakaTime](https://wakatime.com), updated daily. Yes — it's mostl
 
 **🐱 My GitHub Data** 
 
-> 📦 175.7 kB Used in GitHub's Storage 
+> 📦 173.7 kB Used in GitHub's Storage 
  > 
 > 🏆 447 Contributions in the Year 2026
  > 
@@ -65,13 +65,13 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    2 hrs               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Google Calendar          2 hrs               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               2 hrs               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 04:31:24 UTC
+ Last Updated on 20/09/2026 04:48:25 UTC
 <!--END_SECTION:waka-->
 
 ## Elsewhere
