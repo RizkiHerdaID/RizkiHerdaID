@@ -65,19 +65,42 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      2 hrs 52 mins       █████████████████████░░░░   85.63 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 54 mins       ██████████████████████░░░   86.63 % 
+Claude Code              26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr (30.03%)
+
+✍️ 183 lines written by AI, 34 lines written by hand (84.33% AI-written)
+
+🔤 1,087,783 Input Tokens, 117,361 Output Tokens
+
+💵 $12.73 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 100 AI Prompts
+
+Sonnet                   97 lines            █████████████░░░░░░░░░░░░   50.79 % 
+Opus                     94 lines            ████████████░░░░░░░░░░░░░   49.21 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 84.33% of written lines came from AI
+📚 Verbose Prompter — average 6,207 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 21.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -93,7 +116,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 05:43:22 UTC
+ Last Updated on 02/10/2026 05:29:24 UTC
 <!--END_SECTION:waka-->
 
 ## Elsewhere
