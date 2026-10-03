@@ -22,9 +22,9 @@ _Halo! Saya Rizki — feel free to reach out in Bahasa Indonesia._ 🇮🇩
 Tracked with [WakaTime](https://wakatime.com), updated daily. Yes — it's mostly PHP. 🐘
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C956%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C960%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2050%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,58 +65,61 @@ Sunday                   1049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      2 hrs 52 mins       █████████████████████░░░░   85.63 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+PHP                      5 hrs 38 mins       █████████████████████░░░░   82.89 % 
+Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 54 mins       ██████████████████████░░░   86.63 % 
-Claude Code              26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+VS Code                  5 hrs 37 mins       █████████████████████░░░░   82.60 % 
+Claude Code              41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Google Calendar          30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 💻 Operating System: 
-Linux                    3 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 18 mins       ███████████████████████░░   92.65 % 
+Unknown OS               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (30.03%)
+⏱ AI Coding Time: 1 hr 24 mins (20.76%)
 
-✍️ 183 lines written by AI, 34 lines written by hand (84.33% AI-written)
+✍️ 228 lines written by AI, 124 lines written by hand (64.77% AI-written)
 
-🔤 1,087,783 Input Tokens, 117,361 Output Tokens
+🔤 1,537,023 Input Tokens, 188,089 Output Tokens
 
-💵 $12.73 Estimated AI Cost This Week
+💵 $16.11 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 100 AI Prompts
+🧠 20 AI Sessions, 183 AI Prompts
 
-Sonnet                   97 lines            █████████████░░░░░░░░░░░░   50.79 % 
-Opus                     94 lines            ████████████░░░░░░░░░░░░░   49.21 % 
+Opus                     150 lines           ███████████████░░░░░░░░░░   60.73 % 
+Sonnet                   97 lines            ██████████░░░░░░░░░░░░░░░   39.27 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.33% of written lines came from AI
-📚 Verbose Prompter — average 6,207 characters per prompt
+⚖️ Balanced with AI — 64.77% of written lines came from AI
+📚 Verbose Prompter — average 5,305 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 21.72% of changed lines were hand-edited
+🚀 High AI Trust — 46.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      33 repos            ████████████░░░░░░░░░░░░░   49.25 % 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+PHP                      33 repos            █████████████░░░░░░░░░░░░   50.77 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
 
 
- Last Updated on 02/10/2026 05:29:24 UTC
+ Last Updated on 03/10/2026 05:11:41 UTC
 <!--END_SECTION:waka-->
 
 ## Elsewhere
